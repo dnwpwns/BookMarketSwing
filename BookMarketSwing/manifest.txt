@@ -1,0 +1,2 @@
+Main-Class: com.market.main.Welcome
+Class-Path: lib/sqlite-jdbc-3.42.0.0.jar
